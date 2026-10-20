@@ -1,0 +1,13 @@
+---
+title: "Team"
+---
+
+```{r}
+#| include: false
+source("R/helpers.R")
+```
+
+```{r}
+#| results: asis
+team_cards()
+```

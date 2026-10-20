@@ -1,0 +1,5 @@
+group,name,role,photo,email,web,bio
+Principal investigator,[EXAMPLE] Name Surname,Group leader,,name@institution.org,https://example.org,
+Postdoctoral researchers,[EXAMPLE] Name Surname,Postdoctoral researcher,,,,
+PhD students,[EXAMPLE] Name Surname,PhD student (2025–),,,,
+Alumni,[EXAMPLE] Name Surname,"MSc student, 2022. Now at …",,,,

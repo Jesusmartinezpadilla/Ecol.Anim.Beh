@@ -1,0 +1,13 @@
+---
+title: "Projects & funding"
+---
+
+```{r}
+#| include: false
+source("R/helpers.R")
+```
+
+```{r}
+#| results: asis
+project_sections()
+```

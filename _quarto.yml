@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: _site
+  render: ["*.qmd"]          # README.md no se renderiza
+  resources: ["images/*"]
+
+execute:
+  echo: false
+  warning: false
+
+website:
+  title: "Ecology of Animal Behaviour"
+  description: "One-sentence description of the group."
+  search: true
+  navbar:
+    background: primary
+    left:
+      - {href: index.qmd, text: Home}
+      - {href: projects.qmd, text: Projects}
+      - {href: team.qmd, text: Team}
+      - {href: publications.qmd, text: Publications}
+      - {href: talks.qmd, text: Talks}
+      - {href: outreach.qmd, text: "Outreach & teaching"}
+      - {href: pi.qmd, text: PI}
+  page-footer:
+    background: primary
+    left: "© Ecology of Animal Behaviour · Pyrenean Institute of Ecology · Quantitative and Behavioural Ecology group"
+    center: "j.mart@ipe.csic.es"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: [default, theme.scss]
+    include-in-header: partials/head.html
+    title-block-banner: "#002147"
+    title-block-banner-color: white
+    toc: true
+    toc-depth: 2
+    link-external-newwindow: true

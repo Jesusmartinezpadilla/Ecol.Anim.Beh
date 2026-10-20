@@ -1,0 +1,13 @@
+---
+title: "Publications"
+---
+
+```{r}
+#| include: false
+source("R/helpers.R")
+```
+
+```{r}
+#| results: asis
+publication_sections()
+```

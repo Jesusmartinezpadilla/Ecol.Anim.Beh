@@ -1,0 +1,93 @@
+---
+pagetitle: "Ecology of Animal Behaviour"
+page-layout: full
+toc: false
+title-block-banner: false
+---
+
+```{r}
+#| include: false
+source("R/helpers.R")
+```
+
+:::: hero
+::: hero-inner
+<p class="eyebrow">
+
+Institution · Department
+
+</p>
+
+<h1>Ecology of Animal Behaviour</h1>
+
+<p class="tagline">
+
+We study environmental conditions shape the ecology of animal behaviour of mountain birds from proximate mechanisms to evolutionary patterns
+
+</p>
+
+<a class="btn" href="publications.html">Publications</a><a class="btn" href="team.html">Meet the team</a>
+:::
+::::
+
+```{r}
+#| results: asis
+glance()
+```
+
+::::::::::: home-grid
+:::::::::: main
+## About the group
+
+Write a short presentation of the group here (2–3 paragraphs).
+
+## Research themes
+
+::::::::: themes
+::: theme
+### Eco-Evolutionary dynamics of animal behaviour
+
+Short description.
+:::
+
+::: theme
+### Proximate mechanisms
+
+Short description.
+:::
+
+::: theme
+### Conservation ecology
+
+Short description.
+:::
+
+::: theme
+### Population dynamics
+
+Short description.
+:::
+
+::: theme
+## Join us
+
+Information about open positions, theses and visiting researchers.
+:::
+
+::: aside
+## News
+
+```{r}
+#| results: asis
+news_list(4)
+```
+
+## Contact
+
+Jesús Martínez Padilla\
+Pyrenean Institute of Ecology, Quantitative and Behavioural Ecology group\
+Avda. Nuestra Señora de la Victoria, 16 22700, Jaca (Huesca), Spain. [j.mart\@ipe.csic.es](mailto:email@institution.org)
+:::
+:::::::::
+::::::::::
+:::::::::::

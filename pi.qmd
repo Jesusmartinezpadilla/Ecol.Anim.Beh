@@ -1,0 +1,45 @@
+---
+title: "About the PI"
+---
+
+<img src="images/placeholder.svg" alt="Portrait" style="float:right;width:12rem;margin:0 0 1rem 1.5rem;">
+
+**Jesús Martínez Padilla** · Senior Researcher, Pyrenean Institute of Ecology
+
+My main interest lies in the evolutionary ecology of animal behaviour, particularly the role of environmental conditions in understanding its consequences at ecological and evolutionary timescales, within both temporal and biogeographical contexts. I am also interested in applying my knowledge to the conservation of threatened species in mountainous areas. In my research, I use a combination of field-based experiments and long-term, individually-based datasets, mostly in the wild in mountainous areas. I combine quantitative genetic, genetic, genomics and biogeographical tools to understand patterns and disentangle mechanisms.
+
+
+[Email](mailto:j.martl@ipe.csic.es) · [Google Scholar](https://scholar.google.com/citations?user=TKdSHD0AAAAJ&hl=es) · [ORCID](https://orcid.org/0000-0003-2956-5163) · [CV (PDF)](#)
+
+## Research positions
+
+- **January 2019 - June 2024.** [ARAID](https://araid.es) - Senior Researcher at [Pyrenean Institute of Ecology](http://www.ipe.csic.es/institute) (CSIC). Funded by Gobierno de Aragón, ARAID Foundation.
+- **January 2019 - June 2024.** - Investigador Científico at [Pyrenean Institute of Ecology](http://www.ipe.csic.es/institute) (CSIC). 
+- **January 2016 - December 2018.** Independent Research Fellow. Research Unit of Biodiversity UMIB. Funded by Principado de Asturias at [IMIB](https://www.unioviedo.es/IMIB/en/), University de Oviedo and CSIC.
+- **September 2015 -- December 2015.** PDRA at [Centre d'Etudes Biologiques de Chizé](https://www.cebc.cnrs.fr/?lang=en) (CNRS), Villiers-en-Bois, France. Research project: Effet des conditions de développement sur le stress et le vieillissement: une étude éco-physiologique. Funded by Université de la Rochelle.
+- **November 2014 -- August 2015.** PDRA at [Estación Biológica de Doñana](http://www.ebd.csic.es/inicio) (CSIC), Sevilla, Spain. Research project: Evolution of polyandry: mechanisms, genetic variation and sexual selection. Supervisor: Dr. F. García-González. Funded by Spanish Education and Science Ministry.
+- **August 2010 -- July 2013.** PDRA (JAE-doc) at Museo Nacional de Ciencias Naturales (CSIC), Madrid. Spain. Funding awarded by CSIC.
+- **August 2007 -- July 2010.** PDRA at the [The School of Biological Sciencies - University of Aberdeen](https://www.abdn.ac.uk/sbs/), Scotland, UK. Supervisor: Prof. S. Redpath. Research project: Interacting processes and population dynamics. Funded by the Nacional Environmental Research Council (NERC).
+- **September 2006 -- November 2006.** Field Assistant at the University of Aberdeen and [Centre for Ecology and Hydrology](https://www.ceh.ac.uk) -- Banchory, Scotland, UK. Research project: A lifetime of attrition: post-genomic analyses of ecological and evolutionary processes in nematode---vertebrate systems. Supervisor: Dr. S. Piertney. Funded by National Environmental Research Council (NERC).
+- **November 2003 -- February 2004.** Field assistant at Gabriel de Castilla (Antarctica). Research project: Reproductive and antipredatory strategies in Antarctic penguins. Research supervisors: Prof. M. Soler Cruz ([School of Sciences - Granada University](https://fciencias.ugr.es/facultad)) and Prof. J.Martín (Museo Nacional de Ciencias Naturales). Funded by Spanish Science and Technology Ministry.
+- **2003. 9-months contract.** Research assistant at [National Game Research Centre](https://www.irec.es/en/), Spain. Research project: Conservation Scheme of the Red-legged partridge in Castilla-La Mancha. Research supervisor: Dr. J. Viñuela. Funded by Government of Castilla-La Mancha, Spain.
+- **2002.** 5-months contract at National Game Research Centre, Spain. Research project: Reconciling Gamebird Hunting and Biodiversity (REGHAB), within the V Framework Program. Research supervisor: Javier Viñuela Madera. Funded by the European Union.
+- **2001.** 3-months research contract at National Game Research Centre, Spain. Research project: Factors that determine the state and viability of the Black kites (*Milvus migrans*) population in South-eastern Madrid: future measurements to strengthen the specie. Research supervisor: Guillermo Blanco Hervás. Funded by SEO-BirdLife.
+- **2000 -- 2001.** 7-months contract at at National Game Research Centre, Spain. Research project: Ecological factors that affect the distribution and abundance of Red-legged partridge, predictive cartography and evaluation of the traditional methods of their game management. Research supervisor: Javier Viñuela Madera. Funded by Government of Castilla-La Mancha, Spain.
+- **1999.** 12-months contract at Universidad de Alcalá, Spain. Research project: Resource management in rural areas. Research supervisor: Prof. J. Sancho Comins. Funded by EU-LEADER program "ADEL-Sierra Norte".
+
+## Education
+
+- **2004.** PhD in Evolutionary Biology and Biodiversity: Reproductive ecology of Eurasian kestrels: ecophysiology, hatching asynchrony and sex-dependent nestling interactions. Alcalá University / CSIC ([Natural History Museum](https://www.mncn.csic.es/en) - and [National Game Research Centre](https://www.irec.es/en/)), Spain. Qualification: Cum Laude (equivalent to distinction). Supervisors: Prof. J. Moreno (CSIC), Dr. J. Viñuela (CSIC) and Dr. G. Blanco (CSIC).
+
+- **2002.** MsC in Biology. [School of Sciencies - University of Alcalá](https://ciencias.uah.es), Spain. Hatching asynchrony and immune system in birds. Qualification: highest rate. Research supervisor: Prof. J. Potti.
+
+- **1998.** BSc in Environmental Sciences. [School of Sciencies - University of Alcalá](https://ciencias.uah.es), Spain.
+
+## Awards and fellowships
+
+- **2015.** 36,800€. Research fellowship. *The effect of earlylife conditions in stress: implications for senescence*. Funded by Université La Rochelle.
+
+- **2010.** 3,300€. Royal Society Travel Grant to Attend the 13th International Behavioral Ecology Congress of the International Society of Behavioral Society. Perth (Australia). Funding awarded by ISBE.
+
+- **2004 -- 2006** Research fellowship: What is the effect of reversed sexual size dimorphism on offspring fitness?: An experimental approach. Centre for Ecology and Hydrology---Banchory. Supervisor: Dr. B. Arroyo. Funding Awarded by Spanish Education and Science Ministry.

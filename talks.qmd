@@ -1,0 +1,13 @@
+---
+title: "Talks & conferences"
+---
+
+```{r}
+#| include: false
+source("R/helpers.R")
+```
+
+```{r}
+#| results: asis
+talk_sections()
+```
